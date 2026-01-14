@@ -1,0 +1,111 @@
+body {
+  margin: 0;
+  font-family: Inter, Arial, sans-serif;
+  background: #eef3ff;
+}
+
+.page {
+  padding: 30px;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.card {
+  background: white;
+  border-radius: 16px;
+  padding: 24px;
+  margin-bottom: 30px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+}
+
+.header h1 {
+  margin: 0;
+  font-size: 36px;
+}
+
+.header p {
+  color: #6b7280;
+}
+
+.stats {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+
+.stat-card {
+  background: white;
+  border-radius: 16px;
+  padding: 20px;
+  text-align: center;
+  box-shadow: 0 6px 15px rgba(0,0,0,0.08);
+}
+
+.stat-card h2 {
+  margin: 0;
+  font-size: 32px;
+}
+
+.stat-card p {
+  color: #6b7280;
+}
+
+.champion {
+  background: linear-gradient(135deg, #facc15, #eab308);
+  color: white;
+}
+
+.section-title {
+  font-size: 26px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.standings {
+  margin-top: 40px;
+}
+
+.standing-row {
+  display: grid;
+  grid-template-columns: 60px 2fr repeat(4, 1fr);
+  align-items: center;
+  background: #f9fafb;
+  border-radius: 16px;
+  padding: 16px 20px;
+  margin-bottom: 14px;
+}
+
+.rank {
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.team .hostel {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.team .captain {
+  color: #6b7280;
+  font-size: 14px;
+}
+
+.stat {
+  text-align: center;
+}
+
+.stat-value {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.stat-label {
+  font-size: 13px;
+  color: #6b7280;
+}
+
+.green { color: #22c55e; }
+.purple { color: #8b5cf6; }
+.blue { color: #2563eb; }
+
+
