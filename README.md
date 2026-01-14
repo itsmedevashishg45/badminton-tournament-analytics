@@ -150,3 +150,5 @@ This project is for educational and portfolio purposes.
 ### SQL Analysis
 ![SQL Queries](screenshots/sql-query.png)
 
+**Dashboard:** https://badminton-dashboard-beta.vercel.app/
+https://github.com/itsmedevashishg45/badminton-tournament-analytics
