@@ -139,3 +139,14 @@ This project is for educational and portfolio purposes.
 ---
 
 **Star ⭐ this repo if you found it helpful!**
+## 📸 Screenshots
+
+### Interactive Dashboard
+![Dashboard Overview](screenshots/dashboard.png)
+
+### Team Performance Analysis
+![Performance Charts](screenshots/visualization.png)
+
+### SQL Analysis
+![SQL Queries](screenshots/sql-query.png)
+
